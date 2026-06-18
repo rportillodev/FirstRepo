@@ -1,0 +1,7 @@
+
+# Visual Studio local files
+.vs/
+
+# .NET build output
+bin/
+obj/
